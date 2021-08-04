@@ -1,3 +1,3 @@
-Solutions for java-programming.mooc.fi/ Java I
-Free to use
-Hope you enjoyed this course like me
+Solutions for java-programming.mooc.fi/ Java I \n
+Free to use \n
+Hope you enjoyed this course like me \n
