@@ -1,5 +1,3 @@
-Bug DataBase fixing in progress
-
 Solutions for java-programming.mooc.fi/ Java I
 
 Free to use
