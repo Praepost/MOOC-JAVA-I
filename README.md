@@ -1,4 +1,4 @@
-Solutions for java-programming.mooc.fi/ Java I
+First part solutions for java-programming.mooc.fi/ Java I
 
 Free to use
 
